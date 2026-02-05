@@ -131,7 +131,7 @@ const ComparisonApp = () => {
 
         <div className="flex justify-center mb-12">
           <button onClick={processFiles} className="bg-blue-700 text-white px-12 py-4 rounded-full font-bold text-lg shadow-xl hover:bg-blue-800 transition-all flex items-center gap-3 active:scale-95">
-            <ArrowRightLeft /> 執行邏輯比對
+            <ArrowRightLeft /> 開始比對
           </button>
         </div>
 
